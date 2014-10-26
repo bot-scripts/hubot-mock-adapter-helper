@@ -1,0 +1,22 @@
+{
+  "name": "hubot-mock-adapter-helper",
+  "version": "0.0.1",
+  "description": "A helper for hubot-mock-adapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinsoku/hubot-mock-adapter-helper.git"
+  },
+  "author": "sinsoku",
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://raw.github.com/sinsoku/hubot-mock-adapter-helper/master/LICENSE"
+  }],
+  "bugs": {
+    "url": "https://github.com/sinsoku/hubot-mock-adapter-helper/issues"
+  },
+  "homepage": "https://github.com/sinsoku/hubot-mock-adapter-helper"
+}
